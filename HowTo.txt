@@ -1,0 +1,12 @@
+============================================================
+CAKEY APP
+============================================================
+
+HOW TO USE:
+==========
+
+1. Install node ^6.1.1 stable LTS version. 
+2. Extract zip folder to any location of your choice
+3. In your command line window type 'npm install' , this installs all node
+   dependencies
+4. Finally type 'npm run watch'
